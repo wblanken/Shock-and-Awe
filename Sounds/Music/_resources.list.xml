@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="snd_mrRoboto" type="RESOURCE"/>
+  <resource name="snd_isntSheLovely" type="RESOURCE"/>
+  <resource name="snd_baldMountain" type="RESOURCE"/>
+  <resource name="snd_bossBattle" type="RESOURCE"/>
+  <resource filename="dreamin" name="dreamin " type="RESOURCE"/>
+  <resource name="coral" type="RESOURCE"/>
+  <resource name="3tree" type="RESOURCE"/>
+  <resource name="snd_Shock_the_Monkey" type="RESOURCE"/>
+  <resource name="snd_Gaurdia_Forest" type="RESOURCE"/>
+</resources>

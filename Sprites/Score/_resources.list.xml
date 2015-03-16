@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_score_card" type="RESOURCE"/>
+  <resource name="spr_bonus_card" type="RESOURCE"/>
+  <resource name="spr_key_ico" type="RESOURCE"/>
+</resources>

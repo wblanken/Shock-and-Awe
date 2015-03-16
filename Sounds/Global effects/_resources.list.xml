@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="snd_pickup1" type="RESOURCE"/>
+  <resource name="snd_pickup2" type="RESOURCE"/>
+  <resource name="snd_killmonser" type="RESOURCE"/>
+  <resource name="snd_finishlevel" type="RESOURCE"/>
+  <resource name="snd_jump" type="RESOURCE"/>
+  <resource name="snd_shock" type="RESOURCE"/>
+  <resource name="snd_unlock" type="RESOURCE"/>
+  <resource name="snd_killcharacter1" type="RESOURCE"/>
+  <resource name="snd_shockHoller" type="RESOURCE"/>
+</resources>

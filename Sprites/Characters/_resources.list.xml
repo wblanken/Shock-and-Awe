@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_awe_walk_right" type="RESOURCE"/>
+  <resource name="spr_awe_walk_left" type="RESOURCE"/>
+  <resource name="spr_awe_stand_right" type="RESOURCE"/>
+  <resource name="spr_awe_stand_left" type="RESOURCE"/>
+  <resource name="spr_awe_climb" type="RESOURCE"/>
+  <resource name="spr_awe" type="RESOURCE"/>
+  <resource name="spr_life" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="Introduction" type="RESOURCE"/>
+  <resource name="Begininng Story Part 1" type="RESOURCE"/>
+  <resource name="Beginning Story Part 2" type="RESOURCE"/>
+  <resource name="WillsRoom1" type="RESOURCE"/>
+  <resource name="Boss_Battle" type="RESOURCE"/>
+  <resource name="ending credits" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="CREATE" id="0">
+  <actions>
+    <action id="603" library="1">
+      <!--action name: Code-->
+      <kind>CODE</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>CODE</actionType>
+      <functionName/>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="STRING">
+message = " Two apes are walking down a path toward the nearby river.  It is a beautiful 
+            day and they wanted to do something nice with the day.
+
+            As they get half way down the path, the area around them begins to change color
+             to a reddish orange.
+
+            'Awe!' The male ape yells as the light surrounds them.
+
+            'Shok!' Awe yells as she sees him rise from the ground.
+             The light begins to retreat as Awe watches Shok being carried away in
+             the beam of light.  She continues to watch as the beam retreats 
+             into the nearby laboratory with Shok.
+
+            'I am coming for you, Shok,' she says passionately as she heads
+            toward the laboratory.
+            
+            
+            
+            
+            Press Space Bar to Continue"
+text = ""
+chr1 = 0
+message_number = 1
+</argument>
+      </arguments>
+    </action>
+    <action id="526" library="1">
+      <!--action name: Set_Font-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>false</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_font</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="FONT">font0</argument>
+        <argument kind="MENU">0</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>

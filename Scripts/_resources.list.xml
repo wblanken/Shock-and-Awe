@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_score" type="RESOURCE"/>
+  <resource name="move_to_contact_with" type="RESOURCE"/>
+  <resource name="change_instance_for" type="RESOURCE"/>
+  <resource name="check_object_returned" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_slope_u1" type="RESOURCE"/>
+  <resource name="spr_slope_u2" type="RESOURCE"/>
+  <resource name="spr_slope_u3" type="RESOURCE"/>
+  <resource name="spr_slope_d1" type="RESOURCE"/>
+  <resource name="spr_slope_d2" type="RESOURCE"/>
+  <resource name="spr_slope_d3" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_madSci1" type="RESOURCE"/>
+  <resource name="spr_monkey" type="RESOURCE"/>
+  <resource name="spr_shok_animated" type="RESOURCE"/>
+</resources>

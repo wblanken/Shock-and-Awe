@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_ramp_u1" type="RESOURCE"/>
+  <resource name="obj_ramp_u2" type="RESOURCE"/>
+  <resource name="obj_ramp_u3" type="RESOURCE"/>
+  <resource name="obj_ramp_u4" type="RESOURCE"/>
+  <resource name="obj_ramp_u5" type="RESOURCE"/>
+  <resource name="obj_ramp_u6" type="RESOURCE"/>
+  <resource name="obj_ramp_u7" type="RESOURCE"/>
+  <resource name="obj_ramp_u8" type="RESOURCE"/>
+  <resource name="obj_ramp_d1" type="RESOURCE"/>
+  <resource name="obj_ramp_d2" type="RESOURCE"/>
+  <resource name="obj_ramp_d3" type="RESOURCE"/>
+  <resource name="obj_ramp_d4" type="RESOURCE"/>
+  <resource name="obj_ramp_d5" type="RESOURCE"/>
+  <resource name="obj_ramp_d6" type="RESOURCE"/>
+  <resource name="obj_ramp_d7" type="RESOURCE"/>
+  <resource name="obj_ramp_d8" type="RESOURCE"/>
+</resources>

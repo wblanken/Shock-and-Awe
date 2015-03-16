@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_controller" type="RESOURCE"/>
+  <resource name="obj_jukeBox" type="RESOURCE"/>
+  <resource name="obj_Boss_Effects" type="RESOURCE"/>
+  <resource name="intro and cut scene objects" type="GROUP"/>
+  <resource name="MadSci" type="GROUP"/>
+  <resource name="Awe" type="GROUP"/>
+  <resource name="Monsters" type="GROUP"/>
+  <resource name="NPC's" type="GROUP"/>
+  <resource name="Pickups" type="GROUP"/>
+  <resource name="Objects" type="GROUP"/>
+  <resource name="Platforms" type="GROUP"/>
+  <resource name="obj_background" type="RESOURCE"/>
+</resources>

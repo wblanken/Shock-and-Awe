@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_killPlayer" type="RESOURCE"/>
+  <resource name="spr_marker" type="RESOURCE"/>
+  <resource name="spr_wallTop" type="RESOURCE"/>
+  <resource name="spr_wallHalf" type="RESOURCE"/>
+  <resource name="spr_WallVine" type="RESOURCE"/>
+  <resource name="spr_platform" type="RESOURCE"/>
+  <resource name="spr_finalDoors" type="RESOURCE"/>
+  <resource name="spr_wall" type="RESOURCE"/>
+  <resource name="spr_ledge" type="RESOURCE"/>
+  <resource name="spr_slope" type="RESOURCE"/>
+  <resource name="spr_ramp" type="RESOURCE"/>
+  <resource name="spr_madSci_limitL" type="RESOURCE"/>
+  <resource name="spr_madSci_limitR" type="RESOURCE"/>
+  <resource name="Ramps" type="GROUP"/>
+  <resource name="Slopes" type="GROUP"/>
+  <resource name="Lifts" type="GROUP"/>
+</resources>

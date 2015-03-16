@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_monster1" type="RESOURCE"/>
+  <resource name="spr_monster1D" type="RESOURCE"/>
+  <resource name="spr_monster2" type="RESOURCE"/>
+  <resource name="spr_monster2D" type="RESOURCE"/>
+  <resource name="spr_monster3" type="RESOURCE"/>
+  <resource name="spr_monster3D" type="RESOURCE"/>
+  <resource name="spr_monster4" type="RESOURCE"/>
+  <resource name="spr_monster4D" type="RESOURCE"/>
+  <resource name="spr_bee_flyLeft" type="RESOURCE"/>
+  <resource name="spr_bee_DL" type="RESOURCE"/>
+  <resource name="spr_bee_flyRight" type="RESOURCE"/>
+  <resource name="spr_bee_DR" type="RESOURCE"/>
+</resources>

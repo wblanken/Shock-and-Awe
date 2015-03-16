@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<constants>
+  <constant name="ASTATE_STAND" value="0"/>
+  <constant name="ASTATE_WALK" value="1"/>
+  <constant name="ASTATE_JUMP" value="2"/>
+  <constant name="ASTATE_FALL" value="3"/>
+  <constant name="ASTATE_CLIMB" value="4"/>
+  <constant name="ASTATE_CLING" value="5"/>
+  <constant name="ASTATE_SLIP" value="6"/>
+  <constant name="FACE_LEFT" value="-1"/>
+  <constant name="FACE_RIGHT" value="1"/>
+  <constant name="MAX_HSPEED" value="8"/>
+  <constant name="MAX_FALL_SPEED" value="15"/>
+  <constant name="MAX_DRIFT_SPEED" value="6"/>
+  <constant name="LIFT_SPEED" value="3"/>
+  <constant name="JUMP_TIME" value="12"/>
+  <constant name="ESTATE_WAIT" value="0"/>
+  <constant name="ESTATE_MOVE" value="1"/>
+  <constant name="ESTATE_SKID" value="2"/>
+  <constant name="ESTATE_DECIDE" value="3"/>
+  <constant name="ESTATE_HURT" value="4"/>
+</constants>

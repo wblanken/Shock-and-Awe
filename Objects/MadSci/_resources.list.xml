@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_madSci" type="RESOURCE"/>
+  <resource name="obj_madSci_limitL" type="RESOURCE"/>
+  <resource name="obj_madSci_limitR" type="RESOURCE"/>
+  <resource name="obj_madSci_hurt" type="RESOURCE"/>
+  <resource name="obj_madSci_move" type="RESOURCE"/>
+  <resource name="obj_madSci_wait" type="RESOURCE"/>
+  <resource name="obj_madSci_dead" type="RESOURCE"/>
+  <resource name="obj_madSci_Before" type="RESOURCE"/>
+  <resource name="obj_bossStart" type="RESOURCE"/>
+</resources>

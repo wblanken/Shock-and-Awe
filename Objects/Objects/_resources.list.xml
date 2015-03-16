@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_cage" type="RESOURCE"/>
+  <resource name="obj_cage_anim" type="RESOURCE"/>
+  <resource name="obj_cage_open" type="RESOURCE"/>
+  <resource name="obj_door" type="RESOURCE"/>
+  <resource name="obj_door_anim" type="RESOURCE"/>
+  <resource name="obj_door_open" type="RESOURCE"/>
+  <resource name="obj_portal1" type="RESOURCE"/>
+  <resource name="obj_portal2" type="RESOURCE"/>
+  <resource name="obj_portal3" type="RESOURCE"/>
+  <resource name="obj_portal4" type="RESOURCE"/>
+  <resource name="obj_portal5" type="RESOURCE"/>
+  <resource name="obj_portal6" type="RESOURCE"/>
+</resources>

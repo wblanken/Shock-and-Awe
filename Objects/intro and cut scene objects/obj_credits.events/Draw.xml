@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="DRAW" id="0">
+  <actions>
+    <action id="603" library="1">
+      <!--action name: Code-->
+      <kind>CODE</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>CODE</actionType>
+      <functionName/>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="STRING">// To insert a new line add the #
+
+draw_set_color(c_white)
+draw_set_font(fnt_creditos)
+draw_set_halign(fa_center)
+
+draw_sprite(spr_logo,-20,x,y) // Logo
+
+
+
+draw_text(x,y+128,"Programmers")
+draw_text(x,y+160,"William Blankenship#Richard Smith#Johnna Lockard")
+
+
+
+draw_text(x,y+256,"History")
+draw_text(x,y+288,"Shok and Awe was created by programers 
+  wanting to do something different.")
+
+  
+  
+draw_text(x,y+375,"Art Work")
+draw_text(x,y+410,"Capcom#RyanMc#PinedaVX#Billy Howell")
+
+
+
+draw_text(x,y+544,"Music")
+draw_text(x,y+575,"Found at free music sites on the web")
+
+
+
+draw_text(x,y+620,"Special Resources")
+draw_text(x,y+655,"The Game Maker Companion#By Jacob Habgood, Nana Nielsen, and Martin Rijles")
+
+
+
+draw_text(x,y+740,"Special Thanks")
+draw_text(x,y+780,"William's Dad#Johnna's Husband#Rick's girlfriend (Tracy)#GSP Testers")
+
+
+
+draw_text(x,y+940,"Copyright � 2011 BSL Creations")
+</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>

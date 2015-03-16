@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="CREATE" id="0">
+  <actions>
+    <action id="603" library="1">
+      <!--action name: Code-->
+      <kind>CODE</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>CODE</actionType>
+      <functionName/>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="STRING">
+
+
+
+
+
+
+
+
+
+
+
+message = "   A scientist stares at his machines and rubs his hands together greedily.  
+              Electricity waves back and forth on poles and lights blink on and off.
+
+            'Yes, it's almost complete,' he says to himself.  His eyes move across
+            everything and stops at a cage at the end of his machines.  'I just need 
+            one more item.'
+
+            'Master, look here,' a machine calls from the other side of the room.  The
+             scientist goes to the machine and looks into the screen.
+
+            It shows two apes that are walking down a path to a nearby river.  'Yes,' 
+            the scientist hisses.  'It will do wonderfully.'
+
+            He pushes a button on the machine and a target appears over the apes on the
+            screen.  He pushes another button and a beam of reddish orange light streaks
+            toward the two apes.
+            
+            
+            
+            
+            Press Space Bar to Continue"
+text = ""
+chr1 = 2
+message_number = 1
+</argument>
+      </arguments>
+    </action>
+    <action id="526" library="1">
+      <!--action name: Set_Font-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>false</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_font</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="FONT">font0</argument>
+        <argument kind="MENU">0</argument>
+      </arguments>
+    </action>
+    <action id="524" library="1">
+      <!--action name: Set_Color-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>false</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_color</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="COLOR">0</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>

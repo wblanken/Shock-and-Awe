@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_banana" type="RESOURCE"/>
+  <resource name="obj_grapes" type="RESOURCE"/>
+  <resource name="obj_apple" type="RESOURCE"/>
+  <resource name="obj_strawberry" type="RESOURCE"/>
+  <resource name="obj_orange" type="RESOURCE"/>
+  <resource name="obj_key" type="RESOURCE"/>
+  <resource name="obj_key_boss" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_cage" type="RESOURCE"/>
+  <resource name="spr_cage_open" type="RESOURCE"/>
+  <resource name="spr_cage_shock" type="RESOURCE"/>
+  <resource name="spr_door" type="RESOURCE"/>
+  <resource name="spr_door_open" type="RESOURCE"/>
+  <resource name="spr_portal" type="RESOURCE"/>
+  <resource name="spr_portal2" type="RESOURCE"/>
+  <resource name="spr_BossStart" type="RESOURCE"/>
+</resources>

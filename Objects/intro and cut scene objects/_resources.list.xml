@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="lvl 1 music" type="RESOURCE"/>
+  <resource name="intro screen" type="RESOURCE"/>
+  <resource name="music lvl2" type="RESOURCE"/>
+  <resource name="story part 1" type="RESOURCE"/>
+  <resource name="story part 2" type="RESOURCE"/>
+  <resource name="obj_credits" type="RESOURCE"/>
+  <resource name="obj_fade_down" type="RESOURCE"/>
+  <resource name="obj_fade_up" type="RESOURCE"/>
+</resources>

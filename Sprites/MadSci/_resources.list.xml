@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="madSci_standR" type="RESOURCE"/>
+  <resource name="madSci_standL" type="RESOURCE"/>
+  <resource name="madSci_runR" type="RESOURCE"/>
+  <resource name="madSci_runR_D" type="RESOURCE"/>
+  <resource name="madSci_runL" type="RESOURCE"/>
+  <resource name="madSci_runL_D" type="RESOURCE"/>
+  <resource name="madSci_skidR" type="RESOURCE"/>
+  <resource name="madSci_skidR_D" type="RESOURCE"/>
+  <resource name="madSci_skidL" type="RESOURCE"/>
+  <resource name="madSci_skidL_D" type="RESOURCE"/>
+  <resource name="madSci_hitR" type="RESOURCE"/>
+  <resource name="madSci_hitL" type="RESOURCE"/>
+  <resource name="madSci_madR" type="RESOURCE"/>
+  <resource name="madSci_madR_D" type="RESOURCE"/>
+  <resource name="madSci_madL" type="RESOURCE"/>
+  <resource name="madSci_madL_D" type="RESOURCE"/>
+  <resource name="madSci_pantR" type="RESOURCE"/>
+  <resource name="madSci_pantR_D" type="RESOURCE"/>
+  <resource name="madSci_pantL" type="RESOURCE"/>
+  <resource name="madSci_pantL_D" type="RESOURCE"/>
+  <resource name="madSci_deadR" type="RESOURCE"/>
+  <resource name="madSci_deadL" type="RESOURCE"/>
+  <resource name="mad_Sci_Laugh" type="RESOURCE"/>
+  <resource name="madSci_point" type="RESOURCE"/>
+</resources>

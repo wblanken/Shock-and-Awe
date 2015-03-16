@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="intro and cut scenes" type="GROUP"/>
+  <resource name="MadSci" type="GROUP"/>
+  <resource name="Characters" type="GROUP"/>
+  <resource name="Monsters" type="GROUP"/>
+  <resource name="NPC's" type="GROUP"/>
+  <resource name="Pickups" type="GROUP"/>
+  <resource name="Objects" type="GROUP"/>
+  <resource name="Platforms" type="GROUP"/>
+  <resource name="Score" type="GROUP"/>
+</resources>

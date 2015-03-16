@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spr_banana" type="RESOURCE"/>
+  <resource name="spr_grapes" type="RESOURCE"/>
+  <resource name="spr_apple" type="RESOURCE"/>
+  <resource name="spr_strawberry" type="RESOURCE"/>
+  <resource name="spr_orange" type="RESOURCE"/>
+  <resource name="spr_key" type="RESOURCE"/>
+</resources>

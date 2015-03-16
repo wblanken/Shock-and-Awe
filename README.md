@@ -3,9 +3,9 @@ Old class project game made during my Junior year in my Game and Simulation Prog
 
 Directory structure created using [Gmk-Spliter](https://github.com/Medo42/Gmk-Splitter "https://github.com/Medo42/Gmk-Splitter/"), it can be put back together with the same program.
 
-Programmer: Will Blankenship
-Art and Sound Assets: Various sources online
-Story: Johanna Lockard, Richard Smith & William Blankenship
+Programmer: Will Blankenship  
+Art and Sound Assets: Various sources online  
+Story: Johanna Lockard, Richard Smith & William Blankenship  
 
 ###Controls:
 - W, A, S, D: Control Awe

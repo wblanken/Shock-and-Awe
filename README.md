@@ -20,7 +20,7 @@ Story: Johanna Lockard, Richard Smith & William Blankenship
 - The female monkey character was created by William Blankenship based on the Male monkey. 
 - Johanna and Richard's levels were removed from this version of the game.
 
-Created using Game Maker version 8.1
-Copywright 2011
+Created using Game Maker version 8.1  
+Copyright William Blankenship 2015
 
 **DO NOT DISTRUBITE**
